@@ -85,19 +85,5 @@
         "period": "September 2017 - July 2019",
         "description": "Conducted system analysis, testing, reports created using SQL Server, troubleshooting for ERP versions and resolved bugs through C#, using .net framework, development. Implemented customized automated applications to reduce default risk using Visual Formula ERP. Implemented a customized, automated application using Visual Formula ERP to reduce default risk by 15%."
       }
-    ],
-    "education": [
-      {
-        "name": "Bachelor’s Degree in Information Systems / UniBrasil University Center (UniBrasil)",
-        "period": "Graduated in June 2015"
-      },
-      {
-        "name": "Postgraduate Diploma in Artificial Intelligence / Positivo University (UP)",
-        "period": "Graduated in March 2020"
-      },
-      {
-        "name": "Diploma in Software Development / Red Deer Polytechnic",
-        "period": "In Progress - September 2023"
-      }
     ]
   }
