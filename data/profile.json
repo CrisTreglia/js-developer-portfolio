@@ -66,24 +66,30 @@
     ],
     "professionalExperience": [
       {
-        "name": "Salesforce Administrator and Developer / Pantheon Inc (Contractor at ExxonMobil)",
+        "name": "Salesforce Administrator and Developer | Pantheon Inc (Contractor at ExxonMobil)",
         "period": "November 2021 - February 2023",
         "description": "Collaborated with stakeholders to implement and enhance Salesforce functionalities, driving significant business value. Leveraged Apex coding and SQL (SOQL) for feature integration, testing, and successful deployment in Production."
       },
       {
-        "name": "Release Manager / Pantheon Inc (Contractor at ExxonMobil)",
+        "name": "Release Manager | Pantheon Inc (Contractor at ExxonMobil)",
         "period": "March 2022 - September 2022",
         "description": "Collaborated with stakeholders to implement and enhance Salesforce functionalities, driving significant business value. Leveraged Apex coding and SQL (SOQL) for feature integration, testing, and successful deployment in Production."
       },
       {
         "name": "IT Analyst | Furukawa Electric LatAm",
         "period": "July 2019 - November 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "description": "Automated Salesforce data loading using Robotic Process Automation (RPA), boosting efficiency by 60%. Developed a manager for discount coupons in Microsoft Excel, enhancing customer satisfaction and revenue. Administered and updated price lists across Salesforce, Oracle Commerce, and Oracle EBS systems, besides creating reports using Oracle SQL Developer."
       },
       {
         "name": "Systems Analyst | UniBrasil University Center",
         "period": "September 2017 - July 2019",
         "description": "Conducted system analysis, testing, reports created using SQL Server, troubleshooting for ERP versions and resolved bugs through C#, using .net framework, development. Implemented customized automated applications to reduce default risk using Visual Formula ERP. Implemented a customized, automated application using Visual Formula ERP to reduce default risk by 15%."
       }
-    ]
+    ],
+    "education": [
+      {
+        "name": "Diploma in Software Development / Red Deer Polytechnic",
+        "period": "In Progress - September 2023",
+      }
+    
   }
