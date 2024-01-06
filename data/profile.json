@@ -1,6 +1,6 @@
 {
     "name": "Cristofer Treglia",
-    "photo": "https://avatars.githubusercontent.com/u/CrisTreglia?v=4",
+    "photo": "https://avatars.githubusercontent.com/u/40124145?v=4",
     "job": "Junior Developer",
     "location": "Red Deer, AB, Canada",
     "phone": "+1 (368) 886-0032",
@@ -8,36 +8,49 @@
     "skills": {
       "hardSkills": [
         {
-          "name": "Nodejs",
-          
-          "logo": "https://raw.githubusercontent.com/CrisTreglia/js-developer-portfolio/main/data/imgs/nodejs.png"
+          "name": "SQL",
+          "logo": "https://raw.githubusercontent.com/CrisTreglia/js-developer-portfolio/main/data/imgs/sql.png"
         },
         {
-          "name": "Java",
-          "logo": "https://raw.githubusercontent.com/CrisTreglia/js-developer-portfolio/main/data/imgs/java.png"
+          "name": "C#",
+          "logo": "https://raw.githubusercontent.com/CrisTreglia/js-developer-portfolio/main/data/imgs/csharp.png"
         },
         {
-          "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/CrisTreglia/js-developer-portfolio/main/data/imgs/angular.png"
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/CrisTreglia/js-developer-portfolio/main/data/imgs/js.png"
         },
         {
-          "name": "React",
-          "logo": "https://raw.githubusercontent.com/CrisTreglia/js-developer-portfolio/main/data/imgs/react.png"
+          "name": "Git",
+          "logo": "https://raw.githubusercontent.com/CrisTreglia/js-developer-portfolio/main/data/imgs/git.png"
         },
         {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/CrisTreglia/js-developer-portfolio/main/data/imgs/mongodb.png"
+          "name": "GitHub",
+          "logo": "https://raw.githubusercontent.com/CrisTreglia/js-developer-portfolio/main/data/imgs/github.png"
         },
         {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/CrisTreglia/js-developer-portfolio/main/data/imgs/postgresql.png"
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/CrisTreglia/js-developer-portfolio/main/data/imgs/html.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/CrisTreglia/js-developer-portfolio/main/data/imgs/css.png"
+        },
+        {
+          "name": "VSCode",
+          "logo": "https://raw.githubusercontent.com/CrisTreglia/js-developer-portfolio/main/data/imgs/vscode.png"
+        },
+        {
+          "name": "Salesforce",
+          "logo": "https://raw.githubusercontent.com/CrisTreglia/js-developer-portfolio/main/data/imgs/salesforce.png"
         }
       ],
       "softSkills": [
-        "Empathy",
-        "Team Work",
-        "Flexibility",
-        "Organization"
+        "Effective Communication",
+        "Team Collaboration",
+        "Adaptability",
+        "Attention to Detail",
+        "Problem-Solving",
+        "Critical Thinking"
       ]
     },
     "languages": [
@@ -53,19 +66,42 @@
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+        "name": "Salesforce Administrator and Developer / Pantheon Inc (Contractor at ExxonMobil)",
+        "period": "November 2021 - February 2023",
+        "description": "Collaborated with stakeholders to implement and enhance Salesforce functionalities, driving significant business value.
+        Leveraged Apex coding and SQL (SOQL) for feature integration, testing, and successful deployment in Production."
       },
       {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+        "name": "Release Manager / Pantheon Inc (Contractor at ExxonMobil)",
+        "period": "March 2022 - September 2022",
+        "description": "Collaborated with stakeholders to implement and enhance Salesforce functionalities, driving significant business value.
+        Leveraged Apex coding and SQL (SOQL) for feature integration, testing, and successful deployment in Production."
       },
       {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
+        "name": "IT Analyst | Furukawa Electric LatAm",
+        "period": "July 2019 - November 2021",
         "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      },
+      {
+        "name": "Systems Analyst | UniBrasil University Center",
+        "period": "September 2017 - July 2019",
+        "description": "Conducted system analysis, testing, reports created using SQL Server, troubleshooting for ERP versions and resolved bugs through C#, using .net framework, development.
+        Implemented customized automated applications to reduce default risk using Visual Formula ERP.
+        Implemented a customized, automated application using Visual Formula ERP to reduce default risk by 15%."
+      }
+    ],
+    "education": [
+      {
+        "name": "Bachelor’s Degree in Information Systems / UniBrasil University Center (UniBrasil)",
+        "period": "Graduated in June 2015"
+      },
+      {
+        "name": "Postgraduate Diploma in Artificial Intelligence / Positivo University (UP)",
+        "period": "Graduated in March 2020"
+      },
+      {
+        "name": "Diploma in Software Development / Red Deer Polytechnic",
+        "period": "In Progress - September 2023"
       }
     ]
   }
